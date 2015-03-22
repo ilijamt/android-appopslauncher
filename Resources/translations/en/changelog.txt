@@ -1,3 +1,6 @@
 1.0.0 - Initial version
 -----------------------
-Launches the AppOps activity
+
+Features:
+- Launches the AppOps activity
+- Has two version non root and root

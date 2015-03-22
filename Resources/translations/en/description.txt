@@ -1,6 +1,14 @@
 AppOps Launcher
 
-This is just a launcher for App Ops that is present in Android 4.3 and 4.4.x, and this doesn't work on all devices.
+This is just a launcher for App Ops that is present in Android 4.3 and 4.4.x, and this doesn't work on all devices, and for some devices it will require root for some it will work without root.
+Permission Manager (App Ops) is a new feature introduced by Android 4.3 to manage permissions of apps.
+It can help you to secure your android device and protect your privacy.
+
+Confirmed devices that work without root:
+Samsung Galaxy S4 (Jelly Bean, Kit Kat, Lollipop)
+One+ (Jelly Bean, Kit Kat)
+
+For a more comprehensive list see: https://github.com/ilijamt/android-appopslauncher/blob/master/README.md
 
 For some devices it doesn't require root for some it does, test it to see if your device will work without root.
 

@@ -105,21 +105,6 @@ public class MainActivity extends Activity {
 
         Log.d("AppOps", String.format("Manufacturer: %s, Board: %s, Brand: %s, Type: %s, Model: %s", Build.MANUFACTURER, Build.BOARD, Build.BRAND, Build.TYPE, Build.MODEL));
 
-        switch (Build.VERSION.SDK_INT) {
-
-            case Build.VERSION_CODES.JELLY_BEAN:
-                break;
-
-            case Build.VERSION_CODES.KITKAT:
-                break;
-
-            case Build.VERSION_CODES.LOLLIPOP:
-                break;
-
-            default:
-                break;
-        }
-
         switch (Build.MANUFACTURER) {
             case "OnePlus":
                 startAppOpsVariantTwo();

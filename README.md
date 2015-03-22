@@ -6,6 +6,9 @@ AppOps Launcher
 
 This is just a launcher for App Ops that is present in Android 4.3+, and this doesn't work on all devices.
 
+Permission Manager (App Ops) is a new feature introduced by Android 4.3 to manage permissions of apps.
+It can help you to secure your android device and protect your privacy.
+
 If you find a device that this works on, tell me so I can add it to the list.
 
 
