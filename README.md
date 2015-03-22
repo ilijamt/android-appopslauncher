@@ -12,7 +12,7 @@ If you find a device that this works on, tell me so I can add it to the list.
 |    API    	| 18 (Jelly Bean 4.3)                                                     |  19 (KitKat 4.4–4.4.4)                                              | 21 (Lollipop 5.0)                                                  | 22 (Lollipop 5.1)                                                  |
 |:---------:	|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:	|:-----------------------------------------------------------------: |:-----------------------------------------------------------------: |
 |   One+   	    | ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)	| ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
-|   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
+|   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) | ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
 |   Note 4      | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
 |   Nexus 7   	| ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
 
@@ -23,6 +23,14 @@ Shell
 am start -n com.android.settings/com.android.settings.SubSettings -e :android:show_fragment "com.android.settings.applications.AppOpsSummary"
 ```
 
+Devices
+-------
+```
+Manufacturer: samsung, Board: universal5410, Brand: samsung, Type: user, Model: GT-I9500
+Manufacturer: samsung, Board: universal5410, Brand: samsung, Type: user, Model: GT-I9505
+Manufacturer: asus, Board: grouper, Brand: google, Type: user, Model: Nexus 7
+```
+         
 License
 -------
 
