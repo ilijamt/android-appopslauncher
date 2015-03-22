@@ -8,7 +8,7 @@ This is just a launcher for App Ops that is present in Android 4.3+, and this do
 If you find a device that this works on, tell me so I can add it.
 
 
-|    API    	| 18 	                                                                  |               19               	                                    | 21	                                                             | 22 	                                                              |
+|    API    	| 18 (Jelly Bean 4.3)                                                     |  19 (KitKat 4.4–4.4.4)                                              | 21 (Lollipop 5.0)                                                  | 22 (Lollipop 5.1)                                                  |
 |:---------:	|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:	|:-----------------------------------------------------------------: |:-----------------------------------------------------------------: |
 |   One+   	    | ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)	| ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
 |   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-unknown-yellowgreen.svg) |
