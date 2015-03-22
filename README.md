@@ -1,12 +1,18 @@
 AppOps Launcher
 ===============
 
-![License](https://img.shields.io/badge/license-MIT%202-blue.svg "License")
+![License](https://img.shields.io/badge/license-MIT-blue.svg "License")
+![Release](https://img.shields.io/badge/release-1.0-blue.svg "Release")
 
 This is just a launcher for App Ops that is present in Android 4.3+, and this doesn't work on all devices.
 If you find a device that this works on, tell me so I can add it.
 
 Doesn't require root to run.
+
+|  API 	| 18 	|               19               	| 20 	| 21 	|
+|:----:	|:--:	|:------------------------------:	|:--:	|:--:	|
+| One+ 	|    	| ![OK](Resources/checkmark.jpg) 	|    	|    	|
+|      	|    	|                                	|    	|    	|
 
 License
 -------
