@@ -12,8 +12,13 @@ Doesn't require **root** to run.
 |    API    	| 18 	                         |               19               	| 20 	| 21 	|
 |:---------:	|:------------------------------:|:------------------------------:	|:--:	|:--:	|
 |    One+   	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg) 	|    	|    	|
-|    Nexus 7   	|  								 |  |    	|    	|
-|   Galaxy S4 	|  | |    	|    	|
+|    Nexus 7   	| ![OK](Resources/checkmark.jpg) **ROOT** | ![OK](Resources/checkmark.jpg) **ROOT**  |    	|    	|
+|   Galaxy S4 	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg)   |    	|    	|
+
+
+Shell
+-----
+am start -n com.android.settings/com.android.settings.SubSettings -e :android:show_fragment "com.android.settings.applications.AppOpsSummary"
 
 License
 -------
@@ -39,4 +44,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
