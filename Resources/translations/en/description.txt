@@ -1,8 +1,8 @@
 AppOps Launcher
 
-Doesn't require **root** to run, and no ads.
-
 This is just a launcher for App Ops that is present in Android 4.3 and 4.4.x, and this doesn't work on all devices.
+
+For some devices it doesn't require root for some it does, test it to see if your device will work without root.
 
 You should have the ability to deny any application access to your phone hardware, resources, or data, this will help you do it.
 
