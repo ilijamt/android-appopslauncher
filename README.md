@@ -9,10 +9,10 @@ If you find a device that this works on, tell me so I can add it.
 
 Doesn't require root to run.
 
-|  API 	| 18 	|               19               	| 20 	| 21 	|
-|:----:	|:--:	|:------------------------------:	|:--:	|:--:	|
-| One+ 	|    	| ![OK](Resources/checkmark.jpg) 	|    	|    	|
-|      	|    	|                                	|    	|    	|
+|    API    	| 18 	|               19               	| 20 	| 21 	|
+|:---------:	|:--:	|:------------------------------:	|:--:	|:--:	|
+|    One+   	|    	| ![OK](Resources/checkmark.jpg) 	|    	|    	|
+| Galaxy S4 	|    	| ![OK](Resources/checkmark.jpg) 	|    	|    	|
 
 License
 -------
