@@ -39,7 +39,7 @@ And you will see a line similar to the one bellow, send it to me and I will add 
 ```
 Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9500
 Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9505
-Manufacturer: asus, Board: grouper, Brand: google, Type: user, Model: Nexus 7
+Manufacturer: asus, Board: grouper, Brand: google, Model: Nexus 7
 ```
          
 License
