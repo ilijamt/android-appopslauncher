@@ -12,7 +12,8 @@ Doesn't require **root** to run.
 |    API    	| 18 	                         |               19               	| 20 	| 21 	|
 |:---------:	|:------------------------------:|:------------------------------:	|:--:	|:--:	|
 |    One+   	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg) 	|    	|    	|
-| Galaxy S4 	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg) 	|    	|    	|
+|    Nexus 7   	|  								 |  |    	|    	|
+|   Galaxy S4 	|  | |    	|    	|
 
 License
 -------
