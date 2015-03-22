@@ -7,13 +7,13 @@ AppOps Launcher
 This is just a launcher for App Ops that is present in Android 4.3+, and this doesn't work on all devices.
 If you find a device that this works on, tell me so I can add it.
 
-Doesn't require **root** to run.
 
-|    API    	| 18 	                         |               19               	| 20 	| 21 	|
+|    API    	| 18 	                         |               19               	| 21	| 22 	|
 |:---------:	|:------------------------------:|:------------------------------:	|:--:	|:--:	|
-|    One+   	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg) 	|    	|    	|
-|    Nexus 7   	| ![OK](Resources/checkmark.jpg) **ROOT** | ![OK](Resources/checkmark.jpg) **ROOT**  |    	|    	|
-|   Galaxy S4 	| ![OK](Resources/checkmark.jpg) | ![OK](Resources/checkmark.jpg)   |    	|    	|
+|   One+   	    | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) | ![OK](Resources/checkmark.jpg)  ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)    	|    	|
+|   Galaxy S4 	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)   |    	|    	|
+|   Note 4      | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) |    	|    	|
+|   Nexus 7   	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)  |    	|    	|
 
 
 Shell

@@ -1,8 +1,11 @@
 AppOps Launcher
 
-This is just a launcher for App Ops that is present in Android 4.3+, and this doesn't work on all devices.
-If you find a device that this works on, tell me so I can add it.
+Doesn't require **root** to run, and no ads.
 
-Doesn't require **root** to run.
+This is just a launcher for App Ops that is present in Android 4.3 and 4.4.x, and this doesn't work on all devices.
+
+You should have the ability to deny any application access to your phone hardware, resources, or data, this will help you do it.
+
+If you find a device that this works on, tell me so I can add it.
 
 Released as open source, you can view the code at https://github.com/ilijamt/android-appopslauncher
