@@ -8,12 +8,12 @@ This is just a launcher for App Ops that is present in Android 4.3+, and this do
 If you find a device that this works on, tell me so I can add it.
 
 
-|    API    	| 18 	                         |               19               	| 21	| 22 	|
-|:---------:	|:------------------------------:|:------------------------------:	|:--:	|:--:	|
-|   One+   	    | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) | ![OK](Resources/checkmark.jpg)  ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)    	|    	|
-|   Galaxy S4 	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)   |    	|    	|
-|   Note 4      | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) |    	|    	|
-|   Nexus 7   	| ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) | ![OK](Resources/checkmark.jpg) ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)  |    	|    	|
+|    API    	| 18 	                                                 |               19               	                        | 21	                                                        | 22 	|
+|:---------:	|:------------------------------------------------------:|:-----------------------------------------------------:	|:----------------------------------------------------------:	|:--:	|
+|   One+   	    | ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) |  ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)	|  ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)    	|    	|
+|   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-no-blue.svg) |  ![Root](https://img.shields.io/badge/ROOT-no-blue.svg)  |    	                                                        |    	|
+|   Note 4      | ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) |  ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)  |    	                                                        |    	|
+|   Nexus 7   	| ![Root](https://img.shields.io/badge/ROOT-yes-red.svg) |  ![Root](https://img.shields.io/badge/ROOT-yes-red.svg)  |    	                                                        |    	|
 
 
 Shell
