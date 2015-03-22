@@ -10,10 +10,10 @@ If you find a device that this works on, tell me so I can add it.
 
 |    API    	| 18 	                                                                  |               19               	                                    | 21	                                                        | 22 	|
 |:---------:	|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:	|:----------------------------------------------------------:	|:--:	|
-|   One+   	    | ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)	|  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)  |    	|
-|   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) |    	                                                        |    	|
-|   Note 4      | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        |    	                                                        |    	|
-|   Nexus 7   	| ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        |    	                                                        |    	|
+|   One+   	    | ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)	|                                                               |    	|
+|   Galaxy S4 	| ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg)      |  ![Root](https://img.shields.io/badge/ROOT-not%20required-blue.svg) | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)   |    	|
+|   Note 4      | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)   |    	|
+|   Nexus 7   	| ![Root](https://img.shields.io/badge/ROOT-required-red.svg)             |  ![Root](https://img.shields.io/badge/ROOT-required-red.svg)        | ![Root](https://img.shields.io/badge/ROOT-required-red.svg)   |    	|
 
 
 Shell
