@@ -103,7 +103,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle bundle) {
         super.onCreate(bundle);
 
-        Log.d("AppOps", String.format("Manufacturer: %s, Board: %s, Brand: %s, Type: %s, Model: %s", Build.MANUFACTURER, Build.BOARD, Build.BRAND, Build.TYPE, Build.MODEL));
+        Log.d("AppOps", String.format("Manufacturer: %s, Board: %s, Brand: %s, Model: %s", Build.MANUFACTURER, Build.BOARD, Build.BRAND, Build.TYPE, Build.MODEL));
 
         switch (Build.MANUFACTURER) {
             case "OnePlus":

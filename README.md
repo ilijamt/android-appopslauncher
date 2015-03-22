@@ -28,9 +28,17 @@ am start -n com.android.settings/com.android.settings.SubSettings -e :android:sh
 
 Devices
 -------
+
+If it works on your device without root just run the following command
 ```
-Manufacturer: samsung, Board: universal5410, Brand: samsung, Type: user, Model: GT-I9500
-Manufacturer: samsung, Board: universal5410, Brand: samsung, Type: user, Model: GT-I9505
+adb logcat -s "AppOps"
+```
+
+And you will see a line similar to the one bellow, send it to me and I will add it to the list of working ones.
+
+```
+Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9500
+Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9505
 Manufacturer: asus, Board: grouper, Brand: google, Type: user, Model: Nexus 7
 ```
          
