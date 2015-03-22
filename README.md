@@ -4,13 +4,11 @@ AppOps Launcher
 ![License](https://img.shields.io/badge/license-MIT-blue.svg "License")
 ![Release](https://img.shields.io/badge/release-1.0-blue.svg "Release")
 
-This is just a launcher for App Ops that is present in Android 4.3+, and this doesn't work on all devices.
+This is just a launcher for App Ops that is present in Android 4.3 and 4.4.x, and this doesn't work on all devices, and for some devices it will require root for some it will work without root.
 
-Permission Manager (App Ops) is a new feature introduced by Android 4.3 to manage permissions of apps.
-It can help you to secure your android device and protect your privacy.
+App Ops is a new feature introduced by Android 4.3 to manage permissions of apps. It can help you to secure your android device and protect your privacy.
 
 If you find a device that this works on, tell me so I can add it to the list.
-
 
 |    API    	| 18 (Jelly Bean 4.3)                                                     |  19 (KitKat 4.4–4.4.4)                                              | 21 (Lollipop 5.0)                                                  | 22 (Lollipop 5.1)                                                  |
 |:---------:	|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:	|:-----------------------------------------------------------------: |:-----------------------------------------------------------------: |

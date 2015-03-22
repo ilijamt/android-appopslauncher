@@ -1,0 +1,1 @@
+AppOps Launcher on some devices it won't need root on some it will need.
