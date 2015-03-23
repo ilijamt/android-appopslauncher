@@ -39,7 +39,11 @@ Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9500
 Manufacturer: samsung, Board: universal5410, Brand: samsung, Model: GT-I9505
 Manufacturer: asus, Board: grouper, Brand: google, Model: Nexus 7
 ```
-         
+      
+Archive Versions
+----------------
+* [1.0.0](http://files.matoski.com/appopslauncher/releases/appopslauncher-1.0.0-release.apk)
+
 License
 -------
 
